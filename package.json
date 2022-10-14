@@ -1,5 +1,6 @@
 {
   "name": "designsystem-ignitelab",
+  "homepage": "https://isneru.github.io/storybook-designsystem",
   "private": true,
   "version": "0.0.0",
   "type": "module",
